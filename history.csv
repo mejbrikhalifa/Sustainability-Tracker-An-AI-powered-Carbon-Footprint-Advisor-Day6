@@ -1,0 +1,4 @@
+date,electricity_kWh,natural_gas_m3,hot_water_liter,cold_water_liter,district_heating_kWh,propane_liter,fuel_oil_liter,petrol_liter,diesel_liter,bus_km,train_km,bicycle_km,flight_short_km,flight_long_km,meat_kg,chicken_kg,eggs_kg,dairy_kg,vegetarian_kg,vegan_kg,total_kg,electricity_kwh,district_heating_kwh
+2025-09-29,0.0,0.5,20.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.2,0.2,0.4,0.0,21.68,8.0,0.0
+2025-09-30,,0.3,20.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.3,0.2,0.5,0.0,21.95,8.0,0.0
+2025-10-01,,0.0,0.0,2.0,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.3,18.79,5.0,0.0
